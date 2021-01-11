@@ -2,4 +2,4 @@
 
 Simple random number generator (1-100) for randomising actions.
 
-Hosted on mybinder.org [here](https://notebooks.gesis.org/binder/jupyter/user/jack-0-0-rng-7ioiinqp/voila/render/rng.ipynb?token=HaQmeHpBScym_MlvQoAWZw).
+Hosted on mybinder.org [here](https://hub.gke2.mybinder.org/user/jack-0-0-rng-6hc5zdj7/voila/render/rng.ipynb?token=YD3kjjlcTyOUnYnyHbXIoQ).
